@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifyImages",
+  "policyUUID": "2e253266",
+  "bucketName": "awsamplifytestedc0e61920d141589400b1e517a5e312",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
